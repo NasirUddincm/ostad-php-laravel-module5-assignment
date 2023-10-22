@@ -1,0 +1,4 @@
+Username: nasir
+Email: nasir@gmail.com
+Password: $2y$10$79gPdnDJT.wQmdqstyGBm.xH6lV/HnfDAkl6YcRlTe/1qEIhWgtTa
+Role: user

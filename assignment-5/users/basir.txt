@@ -1,0 +1,4 @@
+Username: basir
+Email: basir@gmail.com
+Password: $2y$10$sOzWypznsNcbZc/Vo158W.Zuc.0K9PMvYlPGvspzNn.3zPmeB4juG
+Role: user

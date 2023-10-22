@@ -1,0 +1,4 @@
+Username: test
+Email: test@gmail.com
+Password: $2y$10$OLo.Bd55MaUsSjdUuVJR0Om2SxsVFCEwhAoiEygBqHK6H1PGsN5Lm
+Role: admin
